@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola 👋
+
+My name's Santiago
+
+- I'm currently studying on the National University of Colombia
+- I'm in my seventh semester
+- I'm learning about DevOps and Game Programming
+
 
 <!--
 **savillotaa/savillotaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
