@@ -1,10 +1,12 @@
 ## Hola 👋
 
-My name's Santiago
+My name is Santiago
 
-- I'm currently studying on the National University of Colombia
-- I'm in my seventh semester
-- I'm learning about DevOps and Game Programming
+- I'm currently studying on the National University of Colombia.
+- I'm in my eighth semester.
+- I'm learning about Js, DevOps and Game Development.
+
+:)
 
 
 <!--
